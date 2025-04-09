@@ -3,54 +3,63 @@
       "nome": "The Troy Saga",
       "musicas": 5,
       "lancamento": "2022-12-25",
-      "duracao": "16:10"
+      "duracao": "16:10",
+      "cor": "#5A1E23"
     },
     {
       "nome": "The Cyclops Saga",
       "musicas": 4,
       "lancamento": "2023-01-27",
-      "duracao": "19:30"
+      "duracao": "19:30",
+      "cor": "#9D0000"
     },
     {
       "nome": "The Ocean Saga",
       "musicas": 4,
       "lancamento": "2023-12-25",
-      "duracao": "14:14"
+      "duracao": "14:14",
+      "cor": "#007D96"
     },
     {
       "nome": "The Circe Saga",
       "musicas": 4,
       "lancamento": "2024-02-14",
-      "duracao": "12:58"
+      "duracao": "12:58",
+      "cor": "#6D3A5F"
     },
     {
       "nome": "The Underworld Saga",
       "musicas": 3,
       "lancamento": "2024-04-26",
-      "duracao": "10:43"
+      "duracao": "10:43",
+      "cor": "#2D1B2E"
     },
     {
       "nome": "The Thunder Saga",
       "musicas": 5,
       "lancamento": "2024-07-04",
-      "duracao": "17:56"
+      "duracao": "17:56",
+      "cor": "#4A6380"
     },
     {
       "nome": "The Wisdom Saga",
       "musicas": 5,
       "lancamento": "2024-08-30",
-      "duracao": "18:01"
+      "duracao": "18:01",
+      "cor": "#D4A76A"
     },
     {
       "nome": "The Vengeance Saga",
       "musicas": 5,
       "lancamento": "2024-10-31",
-      "duracao": "15:56"
+      "duracao": "15:56",
+      "cor": "#5C2626"
     },
     {
       "nome": "The Ithaca Saga",
       "musicas": 5,
       "lancamento": "2024-12-25",
-      "duracao": "22:32"
+      "duracao": "22:32",
+      "cor": "#3E6D8F"
     }
-  ]
+]

@@ -5,11 +5,13 @@ document.addEventListener('DOMContentLoaded', function() {
             const container = document.getElementById('sagas-container');
             
             data.forEach((saga, index) => {
-                // Formata o número para ter dois dígitos (01, 02, etc.)
                 const imgNumber = (index + 1).toString().padStart(2, '0');
                 
                 const sagaElement = document.createElement('div');
                 sagaElement.className = 'saga-container';
+                
+                // Aplica a cor de fundo diretamente no elemento
+                sagaElement.style.backgroundColor = saga.cor;
                 
                 sagaElement.innerHTML = `
                     <img src="img/${imgNumber}.png" alt="${saga.nome}" class="saga-img">

@@ -18,11 +18,14 @@
         }
         .saga-container {
             display: flex;
-            background-color: white;
             margin-bottom: 20px;
             padding: 15px;
             border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+        }
+        .saga-container:hover {
+            transform: translateY(-5px);
         }
         .saga-img {
             width: 200px;
@@ -30,20 +33,23 @@
             object-fit: cover;
             border-radius: 4px;
             margin-right: 20px;
+            border: 0px solid rgba(255,255,255,0.2);
         }
         .saga-info {
             flex: 1;
+            color: white;
         }
         .saga-info h2 {
             margin-top: 0;
-            color: #2c3e50;
+            color: #ffffff;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
         }
         .info-item {
             margin-bottom: 8px;
         }
         .info-label {
             font-weight: bold;
-            color: #7f8c8d;
+            color: rgba(255,255,255,0.8);
         }
     </style>
 </head>
