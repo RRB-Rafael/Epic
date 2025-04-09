@@ -1,0 +1,56 @@
+[
+    {
+      "nome": "The Troy Saga",
+      "musicas": 5,
+      "lancamento": "2022-12-25",
+      "duracao": "16:10"
+    },
+    {
+      "nome": "The Cyclops Saga",
+      "musicas": 4,
+      "lancamento": "2023-01-27",
+      "duracao": "19:30"
+    },
+    {
+      "nome": "The Ocean Saga",
+      "musicas": 4,
+      "lancamento": "2023-12-25",
+      "duracao": "14:14"
+    },
+    {
+      "nome": "The Circe Saga",
+      "musicas": 4,
+      "lancamento": "2024-02-14",
+      "duracao": "12:58"
+    },
+    {
+      "nome": "The Underworld Saga",
+      "musicas": 3,
+      "lancamento": "2024-04-26",
+      "duracao": "10:43"
+    },
+    {
+      "nome": "The Thunder Saga",
+      "musicas": 5,
+      "lancamento": "2024-07-04",
+      "duracao": "17:56"
+    },
+    {
+      "nome": "The Wisdom Saga",
+      "musicas": 5,
+      "lancamento": "2024-08-30",
+      "duracao": "18:01"
+    },
+    {
+      "nome": "The Vengeance Saga",
+      "musicas": 5,
+      "lancamento": "2024-10-31",
+      "duracao": "15:56"
+    },
+    {
+      "nome": "The Ithaca Saga",
+      "musicas": 5,
+      "lancamento": "2024-12-25",
+      "duracao": "22:32"
+    }
+  ]
